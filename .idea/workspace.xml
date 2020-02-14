@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ee59c64-79f5-4390-8ba8-27d8be7f6dfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/emails/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/qrCode.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ehef.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ehef.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +115,8 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
       <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/simplesoftwareio/simple-qrcode" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Xn8t91uUrsRyBGeeHbtLynoMeJ" />
@@ -144,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581670710003</updated>
-      <workItem from="1581670715585" duration="3621000" />
+      <workItem from="1581670715585" duration="6151000" />
     </task>
     <servers />
   </component>
@@ -176,9 +184,13 @@
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
     <state x="645" y="-735" key="com.intellij.ide.util.TipDialog/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581670723103" />
-    <state x="632" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1581673471263">
+    <state x="654" y="-844" width="630" height="568" key="find.popup" timestamp="1581676095956">
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="632" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581673471263" />
+    <state x="654" y="-844" width="630" height="568" key="find.popup/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581676095956" />
+    <state x="632" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1581675859952">
+      <screen x="9" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="632" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581675859952" />
   </component>
 </project>

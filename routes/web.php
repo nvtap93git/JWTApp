@@ -18,3 +18,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('qrcode', function () {
+    return QrCode::size(300)->generate('A basic example of QR code!');
+});

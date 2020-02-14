@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use App\Mail\WelcomeMail;
 use Illuminate\Support\Facades\Mail;
+use SimpleSoftwareIO\QrCode\Facades\QrCode;
 
 class RegisterController extends Controller
 {
@@ -66,6 +67,7 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
+        return QrCode::size(300)->generate('A basic example of QR code!');
         $user = User::create([
             'name' => $data['name'],
             'email' => $data['email'],
