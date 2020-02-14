@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ee59c64-79f5-4390-8ba8-27d8be7f6dfb" name="Default Changelist" comment="" />
+    <list default="true" id="9ee59c64-79f5-4390-8ba8-27d8be7f6dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ehef.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ehef.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +25,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -101,9 +117,11 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
       <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
       <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Xn8t91uUrsRyBGeeHbtLynoMeJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -111,6 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -133,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581670710003</updated>
-      <workItem from="1581670715585" duration="113000" />
+      <workItem from="1581670715585" duration="769000" />
     </task>
     <servers />
   </component>
@@ -141,25 +160,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="252" key="GridCell.Tab.0.bottom" timestamp="1581670803483">
+    <state width="1877" height="252" key="GridCell.Tab.0.bottom" timestamp="1581671179472">
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.bottom/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581670803483" />
-    <state width="1877" height="252" key="GridCell.Tab.0.center" timestamp="1581670803483">
+    <state width="1877" height="252" key="GridCell.Tab.0.bottom/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581671179472" />
+    <state width="1877" height="252" key="GridCell.Tab.0.center" timestamp="1581671179472">
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.center/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581670803483" />
-    <state width="1877" height="252" key="GridCell.Tab.0.left" timestamp="1581670803483">
+    <state width="1877" height="252" key="GridCell.Tab.0.center/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581671179472" />
+    <state width="1877" height="252" key="GridCell.Tab.0.left" timestamp="1581671179472">
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.left/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581670803483" />
-    <state width="1877" height="252" key="GridCell.Tab.0.right" timestamp="1581670803483">
+    <state width="1877" height="252" key="GridCell.Tab.0.left/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581671179472" />
+    <state width="1877" height="252" key="GridCell.Tab.0.right" timestamp="1581671179472">
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.right/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581670803483" />
+    <state width="1877" height="252" key="GridCell.Tab.0.right/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581671179472" />
     <state x="645" y="-735" key="com.intellij.ide.util.TipDialog" timestamp="1581670723103">
       <screen x="9" y="-1080" width="1920" height="1040" />
     </state>
     <state x="645" y="-735" key="com.intellij.ide.util.TipDialog/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581670723103" />
+    <state x="632" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1581671297569">
+      <screen x="9" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="632" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/9.-1080.1920.1040@9.-1080.1920.1040" timestamp="1581671297569" />
   </component>
 </project>
